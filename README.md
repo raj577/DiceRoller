@@ -1,4 +1,4 @@
 # DiceRoller Androidapp
-_italics_
-it is a simple dice roller app which uses two dices
+
+_it is a simple dice roller app which uses two dices_
 
